@@ -1,0 +1,14 @@
+{
+  "name": "Bypass jQuery Real Person Captcha",
+  "description": "What more can I say?",
+  "version": "1",
+  "manifest_version": 2,
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["bjrpc.js"],
+      "run_at": "document_end",
+      "all_frames": true
+    }
+  ]
+}
