@@ -1,8 +1,6 @@
 window.onload=function(){
   var captchareturn = "default";
-
-  //TODO:Define all letters and numbers with 2D arrays
-  //Letters are 7 by 7 with 2 spaces in between (horizontally)
+  
   var lettera = [
     [" "," "," ","*"," "," "," "],
     [" "," ","*"," ","*"," "," "],
@@ -249,12 +247,8 @@ window.onload=function(){
   var realpersonclasscollection = document.getElementsByClassName("realperson-text");
   var fulltext = realpersonclasscollection[0].innerHTML.replace(/&nbsp;/g, " ");
 
-
-
-  //1. Parse each line
   var lines = fulltext.split("<br>");
 
-  // 2. Divide each line by letter boundaries, Combine divided lines into 2D array for each letter
   var character1 = [];
   for(i=0;i<7;i++){
     character1[i] = [];
