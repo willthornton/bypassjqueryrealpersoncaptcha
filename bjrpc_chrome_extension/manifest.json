@@ -1,6 +1,6 @@
 {
-  "name": "Bypass jQuery Real Person Captcha",
-  "description": "What more can I say?",
+  "name": "BJRPC",
+  "description": "A Chrome Extension to bypass jQuery Real Person Captcha",
   "version": "1",
   "manifest_version": 2,
   "content_scripts": [

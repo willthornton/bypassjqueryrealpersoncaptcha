@@ -1,8 +1,5 @@
 window.onload=function(){
-  var captchareturn = "default";
 
-  //TODO:Define all letters and numbers with 2D arrays
-  //Letters are 7 by 7 with 2 spaces in between (horizontally)
   var lettera = [
     [" "," "," ","*"," "," "," "],
     [" "," ","*"," ","*"," "," "],
@@ -249,7 +246,7 @@ window.onload=function(){
 
 
 
-  
+
   var lines = fulltext.split("<br>");
 
 
