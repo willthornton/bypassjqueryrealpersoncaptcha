@@ -23,7 +23,7 @@ Note: The extension does not currently work for the fields on the "Options" tab 
 
 <h2>To do</h2>
 
-The following items will enhance the abilities of this exploit:
+The following items will enhance this exploit:
 1. Add functionality to work for different length captchas.
 2. Add functionality to parse for numbers.
 3. Add functionality to parse for other types of dots.
