@@ -12,11 +12,9 @@ The plugin is configured by default to run on all pages. If it detects the jQuer
 
 <h2>To test:</h2>
 
-To test the plugin, you can navigate to the Real Person Captcha homepage:
-http://keith-wood.name/realPerson.html
-
-or to the basic Real Person Captcha page:
-http://keith-wood.name/realPersonBasics.html
+To test the plugin, you can navigate to the developer's homepage or basic captcha test page:
+1. http://keith-wood.name/realPerson.html
+2. http://keith-wood.name/realPersonBasics.html
 
 <h2>To do:</h2>
 1. Add functionality to work for different length captchas.<br/>
