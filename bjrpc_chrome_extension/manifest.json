@@ -5,7 +5,7 @@
   "manifest_version": 2,
   "content_scripts": [
     {
-      "matches": ["<all_urls>"],
+      "matches": ["http://keith-wood.name/realPersonBasics.html", "http://keith-wood.name/realPerson.html"],
       "js": ["bjrpc.js"],
       "run_at": "document_end",
       "all_frames": true
