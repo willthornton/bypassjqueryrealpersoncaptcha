@@ -1,7 +1,5 @@
 # BJRPC Chrome Plugin
-A Chrome Plugin to Bypass jQuery Real Person Captcha.
-
-<h2>To use:</h2>
+A Chrome Plugin to Bypass jQuery Real Person Captcha version 2.0.1
 
 The plugin is configured by default to run on all pages. If it detects the jQuery Real Person Captcha it will attempt to parse the captcha content and fill in the captcha answer field with the captcha value.  
 
