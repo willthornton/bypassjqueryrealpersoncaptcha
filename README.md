@@ -5,7 +5,7 @@ The plugin is configured by default to run on the plugin developer's website. If
 
 Instead of using a browser extension, the relevant JavaScript code could be copied into a web page's source to achieve a similar effect. 
 
-<h2>To install:</h2>
+<h2>To install</h2>
 
 To install the plugin, use the following steps:
 1. Save plugin folder to your desktop. 
@@ -13,7 +13,7 @@ To install the plugin, use the following steps:
 3. Click the "Load unpacked extension..." button. 
 4. Select the saved plugin directory. 
 
-<h2>To test:</h2>
+<h2>To test</h2>
 
 To test the plugin, you can navigate to the developer's homepage or basic captcha test page:
 1. http://keith-wood.name/realPerson.html
@@ -21,7 +21,7 @@ To test the plugin, you can navigate to the developer's homepage or basic captch
 
 Note: The extension does not currently work for the fields on the "Options" tab of http://keith-wood.name/realPerson.html (see To do section).
 
-<h2>To do:</h2>
+<h2>To do</h2>
 
 The following items will enhance the abilities of this exploit:
 1. Add functionality to work for different length captchas.
