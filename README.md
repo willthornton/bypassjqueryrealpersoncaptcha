@@ -18,4 +18,7 @@ http://keith-wood.name/realPerson.html
 or to the basic Real Person Captcha page:
 http://keith-wood.name/realPersonBasics.html
 
-
+<h2>To do:</h2>
+1. Add functionality to work for different length captchas.
+2. Add functionality to parse for numbers.
+3. Add functionality to parse for other types of dots.
