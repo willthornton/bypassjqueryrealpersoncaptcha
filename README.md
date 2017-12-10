@@ -1,4 +1,4 @@
-# BJRPC
+# Bypass jQuery Real Person Catpcha (BJRPC)
 A Chrome Extension written as a proof of concept to bypass jQuery Real Person Captcha (tested with version 2.0.1).
 
 The plugin is configured by default to run on all pages. If it detects the jQuery Real Person Captcha it will attempt to parse the captcha content and fill in the captcha answer field with the captcha value.  
