@@ -1,4 +1,4 @@
-# BJRPC
+# BJRPC Chrome Plugin
 A Chrome Plugin to Bypass jQuery Real Person Captcha.
 
 <h2>To use:</h2>
