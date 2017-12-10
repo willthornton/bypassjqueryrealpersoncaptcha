@@ -5,7 +5,7 @@
   "manifest_version": 2,
   "content_scripts": [
     {
-      "matches": ["http://keith-wood.name/realPersonBasics.html"],
+      "matches": ["<all_urls>"],
       "js": ["bypassrpc.js"],
       "run_at": "document_end",
       "all_frames": true
