@@ -1,5 +1,5 @@
 window.onload=function(){
-  //test
+  //test asdf
   var lettera = [
     [" "," "," ","*"," "," "," "],
     [" "," ","*"," ","*"," "," "],
